@@ -1,4 +1,4 @@
-# Change Log
+# Changelog
 
 ## 0.8.9
 ### Added
